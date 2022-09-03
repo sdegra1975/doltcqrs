@@ -1,8 +1,8 @@
 <img height="100" src="./docs/Dolt-Logo@3x.svg"/>
 
-# Dolt is Git for Data!
+# DoltCqrs is Git for Data with faster reads using the CQRS pattern!
 
-Dolt is a SQL database that you can fork, clone, branch, merge, push
+DoltCqrs is a SQL database that you can fork, clone, branch, merge, push
 and pull just like a Git repository. Connect to Dolt just like any
 MySQL database to run queries or update the data using SQL
 commands. Use the command line interface to import CSV files, commit
@@ -26,7 +26,7 @@ Lots of things! Dolt is a generally useful tool with countless
 applications. But if you want some ideas, [here's how people are using
 it so far](https://www.dolthub.com/blog/2022-07-11-dolt-case-studies/).
 
-# Dolt CLI
+# DoltCqrs CLI
 
 The `dolt` CLI has the same commands as `git`, with some extras.
 
